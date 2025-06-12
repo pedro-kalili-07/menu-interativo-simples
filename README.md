@@ -27,4 +27,4 @@ Criar um programa com menu interativo que permita ao usuário realizar **somas**
 
 - **Saída**
 
-- O programa exibe o resultado da operação escolhida ou a mensagem de saída.
+ - O programa exibe o resultado da operação escolhida ou a mensagem de saída.
