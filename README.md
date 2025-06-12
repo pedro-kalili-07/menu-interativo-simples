@@ -25,6 +25,6 @@ Criar um programa com menu interativo que permita ao usuário realizar **somas**
     - Exibe uma mensagem de erro.
 
 
-## Saída
+- **Saída**
 
 - O programa exibe o resultado da operação escolhida ou a mensagem de saída.
